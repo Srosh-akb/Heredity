@@ -1,5 +1,5 @@
 # Heredity
-AI assessing the likelihood of a person having a particular genetic trait.
+CS50AI Project 2b - AI assessing the likelihood of a person having a particular genetic trait.
 
 ## Instructions
 1. Download this repository to your device.
