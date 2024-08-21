@@ -1,5 +1,5 @@
-# Tic Tac Toe
-Program determining how many “degrees of separation” apart two actors are.
+# Heredity
+AI assessing the likelihood of a person having a particular genetic trait.
 
 ## Instructions
 1. Download this repository to your device.
